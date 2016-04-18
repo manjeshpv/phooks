@@ -1,0 +1,7 @@
+[
+  {
+    "id": "bb",
+    "execute-command": "/root/go/src/github.com/manjeshpv/phooks/bb.sh",
+    "command-working-directory": "/root/go/src/github.com/manjeshpv/bb"
+  }
+]
